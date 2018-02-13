@@ -10,7 +10,7 @@ nano number.txt\
 3
 6
 4
-9
+9\
 
 ls\
 cat numbers.txt\
@@ -21,7 +21,7 @@ d
 e
 v
 a
-y
+y\
 sort letters.txt\
 ls-l\
 diff letters.txt numbers.txt\
@@ -37,5 +37,5 @@ ls\
 rmdir newdir/\
 rmdir -r newdir/\
 cd ..\
-find . -type d\
+find . -type d
 
