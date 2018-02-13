@@ -10,7 +10,7 @@ nano number.txt\
 3
 6
 4
-9\
+9
 
 ls\
 cat numbers.txt\
