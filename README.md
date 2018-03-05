@@ -25,9 +25,9 @@ y\
 sort letters.txt\
 ls-l\
 diff letters.txt numbers.txt\
-mkdir newdir/\
+mkdir /newdir\
 pwd\
-touchletters2.txt\
+touch letters2.txt\
 chmod 661 letters.txt\
 gzip letters.txt\
 ls\
